@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T09:57:30.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="555ilB6U5w3YTgrX9-ea" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T11:12:57.583Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="G-inP1wdnDwxdgEsqNLA" version="13.8.8" type="github">
   <diagram id="dHmchS25pWYoXHDNEmSj" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e2YIOsJhv8wdBV_MaUbk-62" value="根据条件筛选出物流列表中不需要同步的数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="672.5" y="340" width="120" height="45" as="geometry" />
+          <mxGeometry x="670" y="340" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="e2YIOsJhv8wdBV_MaUbk-86" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="e2YIOsJhv8wdBV_MaUbk-65" target="e2YIOsJhv8wdBV_MaUbk-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -133,18 +133,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V8CAXn5dS8xwnKJE48gR-1" value="用户提交订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="260" width="120" height="50" as="geometry" />
+          <mxGeometry x="305" y="260" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V8CAXn5dS8xwnKJE48gR-5" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8CAXn5dS8xwnKJE48gR-2" target="e2YIOsJhv8wdBV_MaUbk-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V8CAXn5dS8xwnKJE48gR-7" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="V8CAXn5dS8xwnKJE48gR-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="470" as="targetPoint" />
+            <mxPoint x="365" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V8CAXn5dS8xwnKJE48gR-2" value="是否" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="350" width="80" height="60" as="geometry" />
+        <mxCell id="V8CAXn5dS8xwnKJE48gR-2" value="订单对应的商品是否关联买赠活动" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="345" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="V8CAXn5dS8xwnKJE48gR-8" value="创建物流信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="125" width="90" height="20" as="geometry" />
