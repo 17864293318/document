@@ -1,1 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T03:28:22.074Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="KwyucixwlxXynZRvC_PB" version="13.8.8" type="github"><diagram id="6YfhfU8Jw-q-eikDflNJ" name="Page-1">3VrbkuI2EP0aVSUPbNnyTX60GZPUZpPaqklVMo8GBDhrsGObGcjXp1uS8ZXLLMNleZmxW61G6pZOH7VMjOFy80sWpovfkymPCdWmG2I8EUpd04a/KNhKga2bUjDPoqkU6ZXgOfqPK6GmpOtoyvOGYpEkcRGlTeEkWa34pGjIwixL3ppqsyRu/moaznlH8DwJ4670r2haLKSUUaeS/8qj+aL8Zd12ZcsyLJXVTPJFOE3eaiIjIMYwS5JCPi03Qx6j70q/yH6jPa27gWV8VZzSYfl5zX/79vX5j9FLNvuz+GzHMR0oK3mxLSfMpzB/9ZpkxSKZJ6swDiqpnyXr1ZSjVQ3eKp0vSZKCUAfhP7wotiqY4bpIQLQolrFqhQFn27+x/yerfH1R5sTL06bxtlVvcqw4wL0u0HeOhQXJkyWH/qCS8Tgsotdmv1AtjflOb9f1axKBRaqpVaw7BoxUdFLLmDKtaSRP1tmEq371KBw1ZWotU0WYzXnRMQUPtTlVIhHmd4Scyl97DeO18gehdgz+8/M0XDUWg/3vGlenP0tWxSAX4fRAQafpBv6JiGjjcPJtLpbEYJLESSZVsvn4J2oy1KIwTI2abvVsaT9XtuFpLv4HNmFDwhwSWMQLiOuhxDeJH6CEjYirk4ARH1o1lLgGYbroxYhrYxPEhFkkcIhrEndUNmnYBAY9Kuw8ERd0RsQfYquaOThSTl6N5T4cAjOF0TIx2SHxxANM0DfEZHWcpnKRUGYe6tz1jKTb3b2D7MGiL+EYMkoDP8I4mq/geQLbnsNo/FeeFRFgtqcaltF0KqGKw5TCsbCHk0lxU4ltZvnEetr9JhrgG9KTUFTnCsbraLMfUrsQpKwPtE+abTsNBChR+GyUaiHLAKNTt5HMZjm/CKgYN8kjm6iopRF4e6m1VEkEX8occuncAz4QmeCAr1TwJcwfWkjnJrNGkN8bUfOO04REdYF4iPMWvkLugCYATE+kAAAZzxXwaIk0ASA5Ip7MFzrxRC+w42t7lH3ML6Dje/jwyHhlHMMr2gQVeh5YXR6LrFtikf4dSFTHIf0OcYhehFSbjtbkweZ1ebB9vwAHDBWByUa26gV9AAc6DvFtAVUM1QDFPOCIdqnMmqTZJJ4jej0JEBQAB93VhMdZm6KxEg19wZ5HgjR3ByaVhz00FKETRig4twdNuuqOlh2cBWDuUTp4D+HouuiRk4F1NBmYVuv4eu/pwDmyz2X4tIFYsoE4QXb3W40RMHromNVeBHEcpTlG820RFfw5DQUkv2Vh2loWeSrLV7Nog3lof2xPKHeUHYxmqIwScd9qlSwlWtSKWO3axodxStYNRQ/7chBCENtscaLXRTx8jE3bu+Ca4nK7C5O8RBdh+gMCYmjNlLfbl0cCQi8VEPdeqFJ1hOsnSx9Ie/SyjHyU9+xhxtc5f5UF8HvkJywoSYgpNup7jlJ1YtDmJw5W/ZipNrwbiCaAAKPn/PbIWdg9loV1224Cyb0n4XLTHcnC+qCxPh4yC1sm7YC+w7qg77D98TsPWb73BmAWLqN4K4EDmsJlKjxkGCZ6kcevHLdQp6WXVEuV1ThPD1Hqq45qQAcddBIsxLf7z1M/wuoz7SbluDkH1I2TkKAnFj+a51v1Dcu8tef7Srptj62mHt6aY2qMwzyPJudzt5sXuk5nfHsqXbWIWT0RK2VnFsRouTXKBeNYTROn3jF3KmvWdStrunWv1NURF8HijIncQlbLdHHHaiN1ZfUKFkOkkRU1BT8n5AR1iw0U2CUuxZ97ZKIqIWUvBAJRdQzWWIvnXh+0rkyvwFz76sTvRc0SAXXyjivH3fVmHWuvdkqmJ2Kmc0vINNwjdwgnQ6bZoknulSGzp0p5CK1c/FAGy/424pFffuMiv5VRX88cuDVwxYP5ICBkHwQh/OLCNfQmCp35xcU5sAOv1Ud/Ur36ctII/gc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-04T03:56:54.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="6bMGeZmAox4uOy8l60b_" version="13.8.8" type="github">
+  <diagram id="6YfhfU8Jw-q-eikDflNJ" name="Page-1">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="173.5" y="280" as="sourcePoint" />
+            <mxPoint x="173.5" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-2" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;指定派发赠品或者生成订单（&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;存在关联活动&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;）&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mJueKkPSNFYrfTtJ6ll2-1" vertex="1" connectable="0">
+          <mxGeometry x="-0.0667" y="-1" relative="1" as="geometry">
+            <mxPoint x="17.5" y="-48" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mJueKkPSNFYrfTtJ6ll2-7" target="mJueKkPSNFYrfTtJ6ll2-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-4" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;成功同步物流信息到物流仓库&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mJueKkPSNFYrfTtJ6ll2-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mJueKkPSNFYrfTtJ6ll2-7" target="mJueKkPSNFYrfTtJ6ll2-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-6" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;数据同步时不符合发货条件&lt;br&gt;（测试数据，活动已失效等）&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mJueKkPSNFYrfTtJ6ll2-5" vertex="1" connectable="0">
+          <mxGeometry x="-0.2455" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-7" value="&lt;span&gt;0-待同步仓储&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="135" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-8" value="物流状态图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="220" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="mJueKkPSNFYrfTtJ6ll2-11" target="mJueKkPSNFYrfTtJ6ll2-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-10" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;接收到物流仓库已发货的回调信息&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mJueKkPSNFYrfTtJ6ll2-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.166" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-11" value="&lt;span&gt;1-已同步仓储&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="135" y="542" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-12" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;-2-已取消发货&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="460" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-13" value="&lt;span&gt;2-已发货&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="470" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-14" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mJueKkPSNFYrfTtJ6ll2-11" target="mJueKkPSNFYrfTtJ6ll2-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="213" y="575" as="sourcePoint" />
+            <mxPoint x="470" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-15" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;管理员手动触发取消发货按钮&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mJueKkPSNFYrfTtJ6ll2-14" vertex="1" connectable="0">
+          <mxGeometry x="0.1738" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-16" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.038;exitY=0.213;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="mJueKkPSNFYrfTtJ6ll2-12" target="mJueKkPSNFYrfTtJ6ll2-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJueKkPSNFYrfTtJ6ll2-17" value="管理员重新设定同步时间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mJueKkPSNFYrfTtJ6ll2-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.0931" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
