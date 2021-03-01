@@ -1,1 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T12:14:26.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" version="14.4.3" etag="NLvW41eF4FuUoqKE-92F" type="github"><diagram id="3QWI4BgngaGW9iOLSQ-5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-01T12:33:56.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="pttt6jLjOyBiGbsSVT6p" version="14.4.3" type="github">
+  <diagram id="3QWI4BgngaGW9iOLSQ-5" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="30" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="62z35rE91xEZ9ZzhV8z5-2" target="62z35rE91xEZ9ZzhV8z5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-2" value="获取超时价源列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="80" width="98" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62z35rE91xEZ9ZzhV8z5-3" target="62z35rE91xEZ9ZzhV8z5-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="180" />
+              <mxPoint x="210" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-18" value="否&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="62z35rE91xEZ9ZzhV8z5-17">
+          <mxGeometry x="-0.8286" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-21" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="62z35rE91xEZ9ZzhV8z5-3" target="62z35rE91xEZ9ZzhV8z5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-3" value="能否进行切换①" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-4" value="①价源切换开关是否开启/redis中是否存在对应的核心价数据/该核心价是否超时判断/公共模块是否有对应的切换规则&lt;br&gt;②例如当前价源是第一备选价源，则尝试切换到默认备选价源或者第二备选价源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="100" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="62z35rE91xEZ9ZzhV8z5-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="332" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-5" value="获取对应的备用价源信息（根据不同备用价源分别执行不同的切换策略）②" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="261.5" y="250" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="62z35rE91xEZ9ZzhV8z5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="332" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="62z35rE91xEZ9ZzhV8z5-11" target="62z35rE91xEZ9ZzhV8z5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-11" value="更新reids核心价为备用价源，发起价源重新发布时间流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272" y="440" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="62z35rE91xEZ9ZzhV8z5-12" target="62z35rE91xEZ9ZzhV8z5-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-12" value="保存切换成功的价源数据，轮询判断是否有更优的价源数据，如果有则进行更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-13" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="62z35rE91xEZ9ZzhV8z5-1" target="62z35rE91xEZ9ZzhV8z5-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="160" as="sourcePoint" />
+            <mxPoint x="450" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-16" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="640" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-27" value="&lt;span&gt;通过容忍点差计算，价源价计算，上游节点是否超时判断能否进行价源切换&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="320" width="158" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="62z35rE91xEZ9ZzhV8z5-32" value="f否&lt;br&gt;" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="370" as="sourcePoint" />
+            <mxPoint x="252" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
